@@ -1,2 +1,2 @@
 # AshikasFirstCommit
-This is AShika's first commit
+This is Ashika's first commit
